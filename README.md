@@ -20,6 +20,6 @@ The analysis uses YouTube trending videos data and comment data to perform:
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, NLTK/TextBlob/VADER for sentiment analysis
 - Jupyter Notebooks for analysis and visualization
 
-This is a datacamp competitaion project
-the final result and report could be accessed here 
-https://www.datacamp.com/datalab/w/eb29f2da-5989-4973-a9ef-8d3e99cced4e
+## Competition Results
+The final report and detailed results can be accessed on DataCamp:  
+[YouTube Video Trends Analysis on DataCamp](https://www.datacamp.com/datalab/w/eb29f2da-5989-4973-a9ef-8d3e99cced4e)
